@@ -46,7 +46,7 @@ silence_detection.-main 2/
 ├── config.py
 └── samples/
     └── sample.wav
-
+--
 ### 📤 Output
 Example 1 — Silence Detected
 {
