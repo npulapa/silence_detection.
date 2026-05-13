@@ -36,6 +36,7 @@ The objective of this project is to:
 
 ---
 
+
 # 📂 Project Structure
 
 ```text
@@ -47,7 +48,7 @@ silence_detection.-main 2/
 └── samples/
     └── sample.wav
 --
-### 📤 Output
+# 📤 Output
 Example 1 — Silence Detected
 {
   "silence_detected": true,
